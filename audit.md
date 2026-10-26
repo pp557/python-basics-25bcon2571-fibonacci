@@ -58,6 +58,6 @@
 
 ## 7. License
 
-**Claim:** No license has been specified for this project.  
+**Claim:** License information has not been verified. 
 **Status:** Unverified  
 **Evidence:** The Python code alone cannot establish whether a license has been specified elsewhere in the repository.
